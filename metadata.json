@@ -1,0 +1,8 @@
+
+{
+  "name": "ArtisanConnect",
+  "description": "A neighborhood platform connecting local residents with skilled artisans and craftspeople through a searchable directory and interactive review system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
